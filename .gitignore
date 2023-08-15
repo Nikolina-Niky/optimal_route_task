@@ -60,3 +60,5 @@
 # Composer PHAR
 /composer.phar
 
+.idea/workspace.xml
+
