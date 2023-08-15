@@ -1,7 +1,8 @@
 # How to run
 PHP framework used: Symfony
 
-## Run the service
+Documentation https://symfony.com/doc/current/index.html
+
 run server with instruction
 ```bash
 symfony server:start -d
